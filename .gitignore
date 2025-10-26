@@ -1,0 +1,35 @@
+.mp3
+data/
+hello.pth
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual envs (optional but recommended)
+.venv/
+venv/
+env/
+geneai.env
+
+# Tools & test caches (optional)
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.ruff_cache/
+.hypothesis/
+
+# Build artifacts (optional)
+build/
+dist/
+*.egg-info/
+outputs/
+resources/
+
+# OS/editor noise (optional)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
